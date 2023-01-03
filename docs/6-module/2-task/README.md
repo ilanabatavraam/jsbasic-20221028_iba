@@ -23,13 +23,13 @@ let productCard = new ProductCard(product);
 ```html
 <div class="card">
     <div class="card__top">
-        <img src="/assets/images/products/...значение product.image..." class="card__image" alt="product">
+        <img src="/docs/assets/images/products/...значение product.image..." class="card__image" alt="product">
         <span class="card__price">€<!--значение product.price--></span>
     </div>
     <div class="card__body">
         <div class="card__title"><!--значение product.name--></div>
         <button type="button" class="card__button">
-            <img src="/assets/images/icons/plus-icon.svg" alt="icon">
+            <img src="/docs/assets/images/icons/plus-icon.svg" alt="icon">
         </button>
     </div>
 </div>
